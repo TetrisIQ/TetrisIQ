@@ -1,33 +1,46 @@
-<!-- 
-- 👋 Hi, I’m @TetrisIQ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-TetrisIQ/TetrisIQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# TetrisIQ
+<h2 align="left">Hi 👋! My name is Alex, and I'm a Software engineer from Germany</h2>
 
-## Introduction
+###
 
-Hi there! My name is TetrisIQ and I'm a software developer from Germany. I have a strong passion for open source projects and love to contribute to them whenever possible. My main skills include Java, Spring Boot, TypeScript, Svelte, Vue.js, and node.js. I also have extensive experience working with the Google Cloud Platform and have a very good knowledge of Linux.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tetrisiq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My GitHub Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tetrisiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=My Most Used Languages" height="150" alt="languages graph"  />
+</div>
 
-## Skills
+###
 
-- 🔥 Proficient in Java and Spring Boot
-- 💻 Experienced with TypeScript, Svelte, Vue.js, and node.js
-- 💾 Highly skilled in working with the Google Cloud Platform
-- 🐧 Very knowledgeable in Linux
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+</div>
 
-## Projects
+###
 
-- 🌟 [Poddle] - A decentralized doodle alternative
-- 🌟 [dotfiles] - Configuration files for my WM setup. 
-- 🌟 [Certify] - A POC for verifying zertificates. 
+<br clear="both">
 
-## Contact
+<img src="https://raw.githubusercontent.com/tetrisiq/tetrisiq/output/snake.svg" alt="Snake animation" />
 
-Feel free to reach out to me on GitHub or via email at [github@tetrisiq.de] for any inquiries or collaboration opportunities. I'm always open to discussing new ideas and projects!
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tetrisiq.tetrisiq&"  />
+</div>
+
+###
