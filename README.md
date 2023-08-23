@@ -35,9 +35,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tetrisiq/tetrisiq/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/tetrisiq/tetrisiq/output/snake.svg" alt="Snake animation" /> 
 
-###
+### -->
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tetrisiq.tetrisiq&"  />
